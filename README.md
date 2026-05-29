@@ -62,9 +62,6 @@ Open `config/config2.yaml` and fill in your API key, **or** set the correspondin
 |---|---|
 | OpenRouter | `OPENROUTER_API_KEY` |
 | OpenAI | `OPENAI_API_KEY` |
-| Anthropic | `ANTHROPIC_API_KEY` |
-| DeepSeek | `DEEPSEEK_API_KEY` |
-| Other | `LLM_API_KEY` |
 
 ```yaml
 # config/config2.yaml
