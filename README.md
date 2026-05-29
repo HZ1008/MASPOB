@@ -11,7 +11,7 @@
 
 Official code for the paper:
 
-**MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks**
+**MASPOB: Bandit-Based Prompt Optimization for Multi-Agent Systems with Graph Neural Networks**<br>
 Zhi Hong\*, Qian Zhang\*, Jiahang Sun, Zhiwei Shang, Mingze Kong, Xiangyi Wang, Yao Shu, Zhongxiang Dai
 
 ---
