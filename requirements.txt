@@ -1,0 +1,26 @@
+# Core dependencies for MASPOB
+openai>=1.0.0
+pyyaml>=6.0
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0
+tenacity>=8.2.0
+requests>=2.28.0
+pydantic>=2.0.0
+
+# Neural network and GNN
+torch>=2.0.0
+torch-geometric>=2.4.0
+
+# Embedding models (HuggingFace)
+transformers>=4.30.0
+
+# Code execution and testing
+tree-sitter>=0.20.0
+
+# Async / HTTP / utilities
+aiofiles>=23.0.0
+httpx>=0.24.0
+regex>=2023.0.0
+sympy>=1.12
+
